@@ -83,5 +83,7 @@ int main()
     Time time2(h,m);
     time_difference(time1,time2); 
 
+    cout<<"This is the end of the program. \nThank You for using our time difference calculator"<<endl;
+
     return 0;
 }
